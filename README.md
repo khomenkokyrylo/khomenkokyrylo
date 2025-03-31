@@ -5,28 +5,20 @@
 </h1>
 
 <p >
-🚀 Full-Stack Developer | Mobile Expert | Blockchain Enthusiast  
-</p>
+🚀 Full-Stack Developer | Mobile Expert | And more
 
 
 ### 👨‍💻 About Me  
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a **full-stack developer** with **5+ years of freelancing experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
+I am a **full-stack developer** with **8+ years of freelancing experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
 
-- 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: $100000
 - ⚡ Fun fact: I like code and beautiful girl 🤣🤣
 
-
-💡 Want to see more? Check out my **[portfolio](https://denis--portfolio.vercel.app/)**. 
-
 <h2> Visitor count  </h2>
-
 <div align="left">  
   <img src="https://profile-counter.glitch.me/qasimparekh/count.svg" align="center"/> 
 </div>
